@@ -1,0 +1,4 @@
+Group(id=9566f201-4479-4359-bf5c-d8fa41677c95, name=ИКБО-12-22, students=[])
+Group(id=02a387c8-608b-4915-af18-24c638a060a9, name=ИКБО-13-22, students=[])
+Group(id=a23f7b06-5833-4247-9c9c-9dea96672078, name=ИКБО-36-22, students=[])
+Group(id=607c7deb-5728-46ea-a6c9-0b2d70cdaab0, name=ИКБО-08-22, students=[])

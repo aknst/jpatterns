@@ -1,0 +1,3 @@
+Student(id=3e74fb2c-9471-410f-9997-4176b3204bc8, firstName=Петр, lastName=Иванов, middleName=В, group=null)
+Student(id=c010defd-ac8d-45b4-bf8f-92a1a5cbcf6a, firstName=Сергей, lastName=Борисов, middleName=Б, group=null)
+Student(id=d9b2b6d1-6659-4a3b-b9b4-0f732f844819, firstName=Иван, lastName=Королев, middleName=А, group=null)
